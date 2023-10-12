@@ -1,0 +1,7 @@
+hooks\MyHooks.class
+stepDefinitions\Register.class
+runner\RunnerTestNg.class
+stepDefinitions\Login.class
+runner\TestRunner.class
+stepDefinitions\Search.class
+factory\DriverFactory.class
